@@ -9,3 +9,13 @@ To grow as a cybersecurity professional by strengthening my expertise in threat 
 
 ### Connect with me
 LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasimabegum25)
+### Tools
+
+| Category | Tools |
+|---|---|
+| SIEM / Monitoring | Splunk, Wazuh |
+| Vulnerability Management | OpenVAS |
+| Threat Intelligence | VirusTotal, AbuseIPDB, MXToolbox |
+| Attack Simulation | Kali Linux, Atomic Red Team |
+| Automation / Scripting | Python (AI-assisted), PowerShell |
+| Lab Infrastructure | VirtualBox |
