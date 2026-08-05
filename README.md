@@ -19,3 +19,11 @@ LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasima
 | Attack Simulation | Kali Linux, Atomic Red Team |
 | Automation / Scripting | Python (AI-assisted), PowerShell |
 | Lab Infrastructure | VirtualBox |
+### Certifications
+
+| Certificate | Issuing Organization | Proof |
+|---|---|---|
+| SOC Analyst Path | LetsDefend | [Certificate](certificates/letsdefend-soc.png) 
+| Malware Analysis Skill Path | LetsDefend (HackTheBox) | [Certificate](certificates/malware-analysis.png) 
+| Linux Unhatched | Cisco Networking Academy | [Certificate](certificates/cisco-linux.png) 
+| Networking Basics | Cisco Networking Academy | [Certificate](certificates/cisco-networking.png) 
