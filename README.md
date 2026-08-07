@@ -24,7 +24,7 @@ LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasima
 | Certificate | Issuing Organization | Proof |
 |---|---|---|
 | SOC Analyst Path | LetsDefend | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/SOC-Analysis-Learning-Path.png?raw=true) 
-| Malware Analysis Skill Path | LetsDefend (HackTheBox) | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Malware-Analysis-Skill-Path.png?raw=true) 
+| Malware Analysis Skill Path | LetsDefend  | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Malware-Analysis-Skill-Path.png?raw=true) 
 | Linux Unhatched | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Linux-Unhatched.png?raw=true) 
 | Networking Basics | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Networking_Basics.png?raw=true) 
 ### Featured Projects
