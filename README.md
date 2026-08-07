@@ -27,9 +27,4 @@ LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasima
 | Malware Analysis Skill Path | LetsDefend  | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Malware-Analysis-Skill-Path.png?raw=true) 
 | Linux Unhatched | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Linux-Unhatched.png?raw=true) 
 | Networking Basics | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Networking_Basics.png?raw=true) 
-### Featured Projects
-
-**IOC Lookup & Enrichment Tool**
-Python tool that automates IOC triage — checking IPs, hashes, domains, URLs, and email headers against AbuseIPDB and VirusTotal, with batch processing and color-coded Excel output.
-
-📄 [Full Project Write-up (PDF)](./IOC-Lookup-Project.pdf)
+### Projects
