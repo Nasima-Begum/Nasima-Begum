@@ -28,3 +28,7 @@ LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasima
 | Linux Unhatched | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Linux-Unhatched.png?raw=true) 
 | Networking Basics | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Networking_Basics.png?raw=true) 
 ### Projects
+
+| Projects | Links |
+|---|---|
+| IOC Lookup Tool | [Explore](https://github.com/Nasima-Begum/IOC-Lookup-Tool) |
