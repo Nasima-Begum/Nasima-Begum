@@ -21,7 +21,7 @@ LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasima
 | Lab Infrastructure | VirtualBox |
 ### Certifications
 
-| Certificate | Issuing Organization | Proof |
+| Certificate | Issuing Organization | View |
 |---|---|---|
 | SOC Analyst Path | LetsDefend | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/SOC-Analysis-Learning-Path.png?raw=true) 
 | Malware Analysis Skill Path | LetsDefend  | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Malware-Analysis-Skill-Path.png?raw=true) 
@@ -29,6 +29,6 @@ LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasima
 | Networking Basics | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Networking_Basics.png?raw=true) 
 ### Projects
 
-| Projects | Links |
+| Projects | View |
 |---|---|
 | IOC Lookup Tool | [Explore](https://github.com/Nasima-Begum/IOC-Lookup-Tool) |
