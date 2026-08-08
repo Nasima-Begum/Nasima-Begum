@@ -29,6 +29,6 @@ LinkedIn: [www.linkedin.com/in/nasimabegum25](https://www.linkedin.com/in/nasima
 | Networking Basics | Cisco Networking Academy | [Certificate](https://github.com/Nasima-Begum/Nasima-Begum/blob/main/Networking_Basics.png?raw=true) 
 ### Projects
 
-| Projects | View |
-|---|---|
-| IOC Lookup Tool | [Explore](https://github.com/Nasima-Begum/IOC-Lookup-Tool) |
+| Projects | Description | View |
+|---|---|---|
+| IOC&nbsp;Lookup&nbsp;Tool | Python tool that automates IOC triage across IPs, hashes, domains, URLs, and email headers using AbuseIPDB and VirusTotal. | [Explore](link) |
